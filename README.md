@@ -1,6 +1,6 @@
 # Proyecto control de gastos - React + TypeScript + Context
 
-Projecto de controld de gastos, permite realizar clasificacion por categorias, ver total, disponible y gastado, interacción con grafica 
+Proyecto de controld de gastos, permite realizar clasificacion por categorias, ver total, disponible y gastado, interacción con grafica 
 
 Uso de UseState, UseEffect, UseMemo, useContext, hook personalizado, guardar en localStorage y TypeScript, uso de Reducer y manejo de estados
 
