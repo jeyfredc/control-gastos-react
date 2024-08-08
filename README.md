@@ -1,4 +1,4 @@
-# Projecto control de gastos - React + TypeScript + Context
+# Proyecto control de gastos - React + TypeScript + Context
 
 Projecto de controld de gastos, permite realizar clasificacion por categorias, ver total, disponible y gastado, interacción con grafica 
 
